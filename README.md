@@ -1,2 +1,2 @@
 # MyPPserver
-# This is a server for making labs and trying parallel programming.  
+This is a server for making labs and trying parallel programming.  
